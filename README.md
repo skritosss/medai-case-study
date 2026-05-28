@@ -6,9 +6,9 @@ Public product case study for MedAI, focused on architecture, process, and lesso
 
 ## Context
 
-MedAI is a medical AI product initiative for specialized pediatric clinical workflows.
+MedAI is a healthtech AI product initiative focused on structured decision-support workflows and safer product delivery patterns.
 
-This repository is not the private product codebase. It is a public, sanitized case study describing product context, architecture thinking, workflow design, and lessons learned without exposing source code, clinical logic, sensitive content, or proprietary data.
+This repository is not the private product codebase. It is a public, sanitized case study describing product context, architecture thinking, workflow design, and lessons learned without exposing source code, decision logic, sensitive content, or proprietary data.
 
 ## Topics
 
@@ -34,7 +34,7 @@ Publicly shared:
 Intentionally not shared:
 
 - source code;
-- clinical decision logic;
+- decision-support logic;
 - implementation details;
 - private datasets;
 - production configuration;
@@ -65,4 +65,4 @@ docs/
 
 ## Status
 
-Public sanitized case study. No private product code, clinical logic, or sensitive data is included.
+Public sanitized case study. No private product code, decision logic, or sensitive data is included.
