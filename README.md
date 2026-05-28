@@ -27,6 +27,13 @@ docs/
   04-lessons-learned.md
 ```
 
+## Published Notes
+
+- [`docs/01-problem-context.md`](docs/01-problem-context.md)
+- [`docs/02-product-workflow.md`](docs/02-product-workflow.md)
+- [`docs/03-architecture-notes.md`](docs/03-architecture-notes.md)
+- [`docs/04-lessons-learned.md`](docs/04-lessons-learned.md)
+
 ## Status
 
-Planned case study.
+Public case study draft. No private product code or sensitive data is included.
