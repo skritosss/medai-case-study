@@ -2,6 +2,8 @@
 
 Public product case study for MedAI, focused on architecture, process, and lessons learned.
 
+![Sanitized MedAI architecture](assets/sanitized-architecture.svg)
+
 ## Context
 
 MedAI is a medical AI product initiative for specialized pediatric clinical workflows.

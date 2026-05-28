@@ -1,0 +1,29 @@
+<svg width="1100" height="430" viewBox="0 0 1100 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MedAI sanitized architecture</title>
+  <desc id="desc">A sanitized product architecture diagram for the MedAI case study.</desc>
+  <rect width="1100" height="430" rx="18" fill="#0F172A"/>
+  <text x="54" y="72" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">MedAI Case Study</text>
+  <text x="54" y="108" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="18">Sanitized evidence from a private Flutter / FlutterFlow prototype</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="70" y="164" width="160" height="90" rx="14" fill="#1E293B" stroke="#38BDF8"/>
+    <text x="102" y="204" fill="#E0F2FE" font-size="18" font-weight="800">Case Context</text>
+    <text x="102" y="229" fill="#94A3B8" font-size="13">structured input</text>
+    <path d="M246 209H320" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M310 197L322 209L310 221" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="340" y="164" width="160" height="90" rx="14" fill="#1E293B" stroke="#A78BFA"/>
+    <text x="380" y="204" fill="#F5F3FF" font-size="18" font-weight="800">Validation</text>
+    <text x="375" y="229" fill="#94A3B8" font-size="13">missing data states</text>
+    <path d="M516 209H590" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M580 197L592 209L580 221" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="610" y="164" width="170" height="90" rx="14" fill="#1E293B" stroke="#FBBF24"/>
+    <text x="641" y="204" fill="#FEF3C7" font-size="18" font-weight="800">Workflow Layer</text>
+    <text x="654" y="229" fill="#94A3B8" font-size="13">private logic hidden</text>
+    <path d="M796 209H870" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M860 197L872 209L860 221" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="890" y="164" width="150" height="90" rx="14" fill="#1E293B" stroke="#22C55E"/>
+    <text x="925" y="204" fill="#DCFCE7" font-size="18" font-weight="800">Review</text>
+    <text x="916" y="229" fill="#94A3B8" font-size="13">professional step</text>
+    <rect x="70" y="304" width="970" height="54" rx="12" fill="#111827" stroke="#334155"/>
+    <text x="96" y="337" fill="#CBD5E1" font-size="16">Public boundary: no source code, no clinical logic, no sensitive UI text, no private data.</text>
+  </g>
+</svg>
