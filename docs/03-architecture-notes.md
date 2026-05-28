@@ -4,7 +4,7 @@
 
 - data entry layer;
 - validation layer;
-- domain rules / model-assisted logic;
+- domain workflow layer;
 - explanation layer;
 - audit trail;
 - partner / stakeholder feedback loop.
@@ -18,4 +18,4 @@
 
 ## Public Scope
 
-This repository contains only public product and architecture notes. It does not include private code, private datasets, medical recommendations, or implementation details that should remain confidential.
+This repository contains only public product and architecture notes. It does not include private code, private datasets, clinical recommendations, decision rules, or implementation details that should remain confidential.
